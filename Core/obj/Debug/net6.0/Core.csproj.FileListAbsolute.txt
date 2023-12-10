@@ -1,0 +1,14 @@
+D:\algoriza Traning\Vezeeta\API\Core\bin\Debug\net6.0\Core.deps.json
+D:\algoriza Traning\Vezeeta\API\Core\bin\Debug\net6.0\Core.dll
+D:\algoriza Traning\Vezeeta\API\Core\bin\Debug\net6.0\Core.pdb
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.dll
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\refint\Core.dll
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.pdb
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\ref\Core.dll
+D:\algoriza Traning\Vezeeta\API\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+D:\algoriza Traning\Vezeeta\API\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
